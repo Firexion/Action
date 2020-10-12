@@ -669,3 +669,160 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.10.12-13.52.47:153][292]LogWindows: Warning: URL: D:/Programs/UE_4.25/Engine/Binaries/Win64/ version
 [2020.10.12-13.53.00:384][546]LogSlate: Took 0.045292 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
 [2020.10.12-13.53.39:720][483]LogSlate: Window 'Source Control Login' being destroyed
+[2020.10.12-14.33.24:295][372]LogSlate: Window 'New Level' being destroyed
+[2020.10.12-14.33.24:299][372]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.10.12-14.33.24:302][372]LogSlate: Took 0.000195 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.10.12-14.33.24:312][372]LightingResults: New page: Lighting Build
+[2020.10.12-14.33.24:313][372]LoadErrors: New page: Loading map: Template_Default.umap
+[2020.10.12-14.33.24:314][372]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.10.12-14.33.24:314][372]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.12-14.33.24:314][372]MapCheck: New page: Map Check
+[2020.10.12-14.33.24:314][372]LightingResults: New page: Lighting Build
+[2020.10.12-14.33.24:326][372]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000020891E7BE00), frame # 16372
+[2020.10.12-14.33.24:326][372]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000020891E17B00), frame # 16372
+[2020.10.12-14.33.24:327][372]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2020.10.12-14.33.24:336][372]LogAIModule: Creating AISystem for world Untitled_1
+[2020.10.12-14.33.24:336][372]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000020891E78E00), frame # 16372
+[2020.10.12-14.33.24:336][372]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000020891A6FEC0), frame # 16372
+[2020.10.12-14.33.24:443][372]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.10.12-14.33.24:455][372]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2020.10.12-14.33.24:463][372]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.10.12-14.33.24:464][372]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.13ms to complete.
+[2020.10.12-14.33.24:464][372]LogFileHelpers: Loading map 'Template_Default' took 0.165
+[2020.10.12-14.33.47:428][106]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (Player Start)
+[2020.10.12-14.33.48:437][218]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2020.10.12-14.34.03:996][ 65]SourceControl: fatal: /Temp: '/Temp' is outside repository at 'D:/Workspace/Souls'
+[2020.10.12-14.34.06:550][369]Cmd: TRANSACTION UNDO
+[2020.10.12-14.34.06:550][369]LogEditorTransaction: Undo Move Actors
+[2020.10.12-14.34.21:779][131]MapCheck: New page: Map Check
+[2020.10.12-14.34.21:793][131]Cmd: MAP REBUILD ALLVISIBLE
+[2020.10.12-14.34.21:793][131]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2020.10.12-14.34.21:860][131]LogWorld: UWorld::CleanupWorld for Untitled_1, bSessionEnded=true, bCleanupResources=false
+[2020.10.12-14.34.21:875][131]LogNavigationDataBuild: Display: UNavigationSystemV1::Build started...
+[2020.10.12-14.34.21:875][131]LogNavigationDataBuild: Display:    Building navigation data using PHYSICS_INTERFACE_PHYSX.
+[2020.10.12-14.34.21:875][131]LogNavigationDataBuild: Display:    Building navigation data using WITH_PHYSX.
+[2020.10.12-14.34.21:885][131]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2020.10.12-14.34.21:909][131]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.10.12-14.34.22:020][131]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.10.12-14.34.23:741][131]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 4
+[2020.10.12-14.34.23:741][131]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 3
+[2020.10.12-14.34.23:741][131]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 2
+[2020.10.12-14.34.23:741][131]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 1
+[2020.10.12-14.34.23:741][131]TextureStreamingBuild: Display: Compiling optional shaders took 1.835 seconds.
+[2020.10.12-14.34.23:767][131]LogLevel: Display: Export Material TexCoord Scales took 0.026 seconds.
+[2020.10.12-14.34.23:768][131]TextureStreamingBuild: Display: Build Texture Streaming took 0.001 seconds.
+[2020.10.12-14.34.23:778][131]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2020.10.12-14.34.23:836][131]LightingResults: New page: Lighting Build - Oct 12, 2020, 6:34:23 AM
+[2020.10.12-14.34.23:922][131]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2020.10.12-14.34.24:110][131]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2020.10.12-14.34.24:125][131]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2020.10.12-14.34.25:169][131]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2020.10.12-14.34.25:169][131]LogSwarmInterface: [TryOpenConnection] Local Process ID is 19844
+[2020.10.12-14.34.27:701][131]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2020.10.12-14.34.27:715][131]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2020.10.12-14.34.27:715][131]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2020.10.12-14.34.27:715][131]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2020.10.12-14.34.27:715][131]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2020.10.12-14.34.27:715][131]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2020.10.12-14.34.27:950][131]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2020.10.12-14.34.27:950][131]MapCheck: New page: Untitled_1 - Oct 12, 2020, 6:34:27 AM
+[2020.10.12-14.34.27:950][131]MapCheck: Error: WorldSettings_1 Maps need lighting rebuilt 
+[2020.10.12-14.34.27:969][131]MapCheck: Map check complete: 1 Error(s), 0 Warning(s), took 18.708ms to complete.
+[2020.10.12-14.34.27:970][131]LogEditorBuildUtils: Build time 0:06
+[2020.10.12-14.34.28:025][131]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer DefaultMaterial, compiling. 
+[2020.10.12-14.34.28:057][131]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer DefaultMaterial, compiling. 
+[2020.10.12-14.34.28:198][132]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 4
+[2020.10.12-14.34.28:198][132]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 3
+[2020.10.12-14.34.28:198][132]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 2
+[2020.10.12-14.34.28:198][132]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 1
+[2020.10.12-14.34.28:523][135]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2020.10.12-14.34.29:942][225]Job is a success!
+[2020.10.12-14.34.30:103][226]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.023s
+[2020.10.12-14.34.30:103][226]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2020.10.12-14.34.30:103][226]LogVolumetricLightmapImport:      BrickData (all levels) 0.3Mb
+[2020.10.12-14.34.30:103][226]LogVolumetricLightmapImport:      Bricks at depth
+[2020.10.12-14.34.30:103][226]LogVolumetricLightmapImport:          0: 1.4% covering 100.0% of volume
+[2020.10.12-14.34.30:103][226]LogVolumetricLightmapImport:          1: 5.8% covering 6.2% of volume
+[2020.10.12-14.34.30:103][226]LogVolumetricLightmapImport:          2: 92.8% covering 1.6% of volume
+[2020.10.12-14.34.30:103][226]LogVolumetricLightmapImport:      Bricks in each level
+[2020.10.12-14.34.30:103][226]LogVolumetricLightmapImport:          Untitled_1 			 69 bricks 	 100.0% (Persistent Level)
+[2020.10.12-14.34.30:214][226]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 64X64)
+[2020.10.12-14.34.30:214][226]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (DXT1, 64X64)
+[2020.10.12-14.34.30:214][226]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 256X256)
+[2020.10.12-14.34.30:214][226]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 256X256)
+[2020.10.12-14.34.30:214][226]LogTexture: Display: Building textures: ShadowMapTexture2D_1 (G8, 32X32)
+[2020.10.12-14.34.30:214][226]LogTexture: Display: Building textures: ShadowMapTexture2D_0 (G8, 128X128)
+[2020.10.12-14.34.30:215][226]LogStaticLightingSystem: Untitled_1_BuiltData storing lightmap data for 2 meshes in 2 LightmapResourceClusters (1.0 Meshes per cluster).
+[2020.10.12-14.34.30:228][226]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2020.10.12-14.34.30:231][226]Lightmass on DESKTOP-RFARUUP: 778 ms total, 102 ms importing, 6 ms setup, 69 ms photons, 501 ms processing, 0 ms extra exporting [2/2 mappings]. Threads: 5.51 sec total, 168 ms processing.
+[2020.10.12-14.34.30:296][226]LogStaticLightingSystem: Illumination: 6.42 sec (69 ms encoding lightmaps, 3 ms encoding shadowmaps)
+[2020.10.12-14.34.30:296][226]LogStaticLightingSystem: Lightmap texture memory:  0.1 MB (0.1 MB streaming, 0.0 MB non-streaming), 4 textures
+[2020.10.12-14.34.30:296][226]LogStaticLightingSystem: Shadowmap texture memory: 0.0 MB (0.0 MB streaming, 0.0 MB non-streaming), 2 textures
+[2020.10.12-14.34.30:688][226]DumpUnbuiltLightIteractions
+[2020.10.12-14.34.30:688][226]Lights with unbuilt interactions: 0
+[2020.10.12-14.34.30:688][226]
+[2020.10.12-14.34.30:688][226]Primitives with unbuilt interactions: 0
+[2020.10.12-14.34.30:771][227]Cmd: MAP CHECK NOTIFYRESULTS
+[2020.10.12-14.34.30:771][227]MapCheck: New page: Untitled_1 - Oct 12, 2020, 6:34:30 AM
+[2020.10.12-14.34.30:771][227]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.251ms to complete.
+[2020.10.12-14.34.30:846][236]SourceControl: fatal: /Temp: '/Temp' is outside repository at 'D:/Workspace/Souls'
+[2020.10.12-14.34.34:079][624]LogSlate: Window 'Message Log' being destroyed
+[2020.10.12-14.34.34:083][624]LogSlate: Window 'Message Log' being destroyed
+[2020.10.12-14.34.35:312][758]SourceControl: fatal: /Temp: '/Temp' is outside repository at 'D:/Workspace/Souls'
+[2020.10.12-14.36.41:820][758]LogSlate: Window 'Save Level As' being destroyed
+[2020.10.12-14.36.42:240][758]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/TestingLevel" FILE="../../../../../Workspace/Souls/Content/Maps/TestingLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.10.12-14.36.42:284][758]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2020.10.12-14.36.42:295][758]LogSavePackage: Moving '../../../../../Workspace/Souls/Saved/TestingLevelF164FCC54EE90E928A5ED4AB8C225FBF.tmp' to '../../../../../Workspace/Souls/Content/Maps/TestingLevel.umap'
+[2020.10.12-14.36.42:630][758]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/TestingLevel_BuiltData" FILE="../../../../../Workspace/Souls/Content/Maps/TestingLevel_BuiltData.uasset" SILENT=true
+[2020.10.12-14.36.42:638][758]LogSavePackage: Moving '../../../../../Workspace/Souls/Saved/TestingLevel_BuiltData702390EC4CA109FF323386892A2F5C84.tmp' to '../../../../../Workspace/Souls/Content/Maps/TestingLevel_BuiltData.uasset'
+[2020.10.12-14.36.43:316][758]LogFileHelpers: Saving map 'TestingLevel' took 1.492
+[2020.10.12-14.36.43:319][758]AssetCheck: New page: Asset Save: multiple assets
+[2020.10.12-14.36.43:319][758]LogContentValidation: Display: Validating World /Game/Maps/TestingLevel.TestingLevel
+[2020.10.12-14.36.43:319][758]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/TestingLevel_BuiltData.TestingLevel_BuiltData
+[2020.10.12-14.36.43:479][767]SourceControl: fatal: /Temp: '/Temp' is outside repository at 'D:/Workspace/Souls'
+[2020.10.12-14.37.23:227][968]LogSlate: Window 'Pick Parent Class' being destroyed
+[2020.10.12-14.37.30:939][866]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/_Main/BaseClasses/GM_SoulsGame.GM_SoulsGame
+[2020.10.12-14.37.31:314][866]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0006 seconds. Added 125 classes and 0 folders.
+[2020.10.12-14.37.34:252][ 32]LogRenderer: Reallocating scene render targets to support 1208x900 Format 10 NumSamples 1 (Frame:141).
+[2020.10.12-14.37.34:626][ 75]LogSlate: Window 'GM_SoulsGame' being destroyed
+[2020.10.12-14.37.41:123][814]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Main/BaseClasses/GM_SoulsGame" FILE="../../../../../Workspace/Souls/Content/_Main/BaseClasses/GM_SoulsGame.uasset" SILENT=true
+[2020.10.12-14.37.41:127][814]LogSavePackage: Moving '../../../../../Workspace/Souls/Saved/GM_SoulsGameAE5CA97D4A0750424893BFB1F9128739.tmp' to '../../../../../Workspace/Souls/Content/_Main/BaseClasses/GM_SoulsGame.uasset'
+[2020.10.12-14.37.42:008][814]AssetCheck: New page: Asset Save: GM_SoulsGame
+[2020.10.12-14.37.42:008][814]LogContentValidation: Display: Validating Blueprint /Game/_Main/BaseClasses/GM_SoulsGame.GM_SoulsGame
+[2020.10.12-14.37.50:305][775]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/TestingLevel" FILE="../../../../../Workspace/Souls/Content/Maps/TestingLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.10.12-14.37.50:329][775]LogUObjectHash: Compacting FUObjectHashTables data took   2.51ms
+[2020.10.12-14.37.50:340][775]LogSavePackage: Moving '../../../../../Workspace/Souls/Saved/TestingLevelFDE5E8DE43DEF4AE807E98A3F0DD73C3.tmp' to '../../../../../Workspace/Souls/Content/Maps/TestingLevel.umap'
+[2020.10.12-14.37.50:449][775]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/TestingLevel_BuiltData" FILE="../../../../../Workspace/Souls/Content/Maps/TestingLevel_BuiltData.uasset" SILENT=true
+[2020.10.12-14.37.50:458][775]LogSavePackage: Moving '../../../../../Workspace/Souls/Saved/TestingLevel_BuiltDataC603E0AB4CCF63B3EFA82E9CB8DC55B5.tmp' to '../../../../../Workspace/Souls/Content/Maps/TestingLevel_BuiltData.uasset'
+[2020.10.12-14.37.50:469][775]AssetCheck: New page: Asset Save: multiple assets
+[2020.10.12-14.37.50:469][775]LogContentValidation: Display: Validating World /Game/Maps/TestingLevel.TestingLevel
+[2020.10.12-14.37.50:469][775]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/TestingLevel_BuiltData.TestingLevel_BuiltData
+[2020.10.12-14.38.18:741][ 83]LogSlate: Window 'Pick Parent Class' being destroyed
+[2020.10.12-14.38.39:852][580]BlueprintLog: New page: Compile GM_SoulsGame
+[2020.10.12-14.38.39:909][580]LogUObjectHash: Compacting FUObjectHashTables data took   1.84ms
+[2020.10.12-14.38.40:573][642]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Main/BaseClasses/GM_SoulsGame" FILE="../../../../../Workspace/Souls/Content/_Main/BaseClasses/GM_SoulsGame.uasset" SILENT=true
+[2020.10.12-14.38.40:578][642]LogSavePackage: Moving '../../../../../Workspace/Souls/Saved/GM_SoulsGame3AF87F544E0C4C7895FA1C82FFABDA0C.tmp' to '../../../../../Workspace/Souls/Content/_Main/BaseClasses/GM_SoulsGame.uasset'
+[2020.10.12-14.38.40:587][642]AssetCheck: New page: Asset Save: GM_SoulsGame
+[2020.10.12-14.38.40:587][642]LogContentValidation: Display: Validating Blueprint /Game/_Main/BaseClasses/GM_SoulsGame.GM_SoulsGame
+[2020.10.12-14.38.49:028][441]LogSlate: Window 'Pick Parent Class' being destroyed
+[2020.10.12-14.39.41:381][  6]LogUObjectHash: Compacting FUObjectHashTables data took   2.23ms
+[2020.10.12-14.39.41:383][  6]LogMetaData: Removing '/Game/_Main/BaseClasses/BP_HeroCharacter.BP_HeroCharacter:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/_Main/BaseClasses/HeroCharacter.PackageMetaData'
+[2020.10.12-14.39.41:383][  6]LogMetaData: Removing '/Game/_Main/BaseClasses/BP_HeroCharacter.SKEL_BP_HeroCharacter_C' ref from Metadata '/Game/_Main/BaseClasses/HeroCharacter.PackageMetaData'
+[2020.10.12-14.39.41:383][  6]LogMetaData: Removing '/Game/_Main/BaseClasses/BP_HeroCharacter.BP_HeroCharacter_C' ref from Metadata '/Game/_Main/BaseClasses/HeroCharacter.PackageMetaData'
+[2020.10.12-14.39.41:383][  6]LogMetaData: Removing '/Game/_Main/BaseClasses/BP_HeroCharacter.BP_HeroCharacter:EventGraph.K2Node_Event_0' ref from Metadata '/Game/_Main/BaseClasses/HeroCharacter.PackageMetaData'
+[2020.10.12-14.39.41:383][  6]LogMetaData: Removing '/Game/_Main/BaseClasses/BP_HeroCharacter.BP_HeroCharacter:EventGraph.K2Node_Event_1' ref from Metadata '/Game/_Main/BaseClasses/HeroCharacter.PackageMetaData'
+[2020.10.12-14.39.41:383][  6]LogMetaData: Removing '/Game/_Main/BaseClasses/BP_HeroCharacter.BP_HeroCharacter:EventGraph.K2Node_Event_2' ref from Metadata '/Game/_Main/BaseClasses/HeroCharacter.PackageMetaData'
+[2020.10.12-14.39.41:409][  6]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Main/BaseClasses/BP_HeroCharacter" FILE="../../../../../Workspace/Souls/Content/_Main/BaseClasses/BP_HeroCharacter.uasset" SILENT=true
+[2020.10.12-14.39.41:415][  6]LogSavePackage: Moving '../../../../../Workspace/Souls/Saved/BP_HeroCharacterF00A877B4D96ABCAD5A94299B56B6D69.tmp' to '../../../../../Workspace/Souls/Content/_Main/BaseClasses/BP_HeroCharacter.uasset'
+[2020.10.12-14.39.42:543][  6]LogUObjectHash: Compacting FUObjectHashTables data took   1.86ms
+[2020.10.12-14.39.42:568][  6]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2020.10.12-14.39.42:585][  6]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2020.10.12-14.39.42:610][  6]AssetCheck: New page: Asset Save: BP_HeroCharacter
+[2020.10.12-14.39.42:610][  6]LogContentValidation: Display: Validating Blueprint /Game/_Main/BaseClasses/BP_HeroCharacter.BP_HeroCharacter
+[2020.10.12-14.39.53:874][317]LogSlate: Took 0.020112 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.10.12-14.39.54:306][361]BlueprintLog: New page: Compile GM_SoulsGame
+[2020.10.12-14.39.54:335][361]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2020.10.12-14.39.54:924][417]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Main/BaseClasses/GM_SoulsGame" FILE="../../../../../Workspace/Souls/Content/_Main/BaseClasses/GM_SoulsGame.uasset" SILENT=true
+[2020.10.12-14.39.54:928][417]LogSavePackage: Moving '../../../../../Workspace/Souls/Saved/GM_SoulsGameD4FE62D147EBA0E8C93F568FF9E4D532.tmp' to '../../../../../Workspace/Souls/Content/_Main/BaseClasses/GM_SoulsGame.uasset'
+[2020.10.12-14.39.54:936][417]AssetCheck: New page: Asset Save: GM_SoulsGame
+[2020.10.12-14.39.54:936][417]LogContentValidation: Display: Validating Blueprint /Game/_Main/BaseClasses/GM_SoulsGame.GM_SoulsGame
